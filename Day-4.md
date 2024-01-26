@@ -1,16 +1,19 @@
-## Part 1: Lighthouse Audit
+# Part 1: Lighthouse Audit
 
-![Lighthouse Screenshot](image.png)
+![Lighthouse Screenshot](path/to/your/image.png)
 
-## Part 2: Performance Profiling
+# Part 2: Performance Profiling
 
-![Performance Screenshot](image-1.png)
+![Performance Screenshot](path/to/your/image-1.png)
 
-## Network Analysis
+# Network Analysis
 
-![Netwok Screenshot](image-2.png)
-Issues: none
+![Network Screenshot](path/to/your/image-2.png)
 
-## Part 3: Documentation
+## Issues
 
-I learned how to use performance, lighthouse, and network.
+None
+
+# Part 3: Documentation
+
+I learned how to use performance, Lighthouse, and network.
