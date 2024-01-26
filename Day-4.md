@@ -1,10 +1,10 @@
 ## Part 1: Lighthouse Audit
 
-![Lighthouse Screenshot] (image.png)
+![Lighthouse Screenshot](image.png)
 
 ## Part 2: Performance Profiling
 
-![Performance Screenshot] (image-1.png)
+![Performance Screenshot](image-1.png)
 
 ## Network Analysis
 
