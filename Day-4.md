@@ -1,14 +1,16 @@
 # Part 1: Lighthouse Audit
 
-![Lighthouse Screenshot](path/to/your/image.png)
+![image](https://github.com/GregoryRobetertson/Devtools-debugging/assets/147750592/1d3d6e7d-56ae-4440-8666-e39aab956015)
+
 
 # Part 2: Performance Profiling
 
-![Performance Screenshot](path/to/your/image-1.png)
+![image](https://github.com/GregoryRobetertson/Devtools-debugging/assets/147750592/66342135-8e09-4237-9eb7-10d2072e42fa)
+
 
 # Network Analysis
 
-![Network Screenshot](path/to/your/image-2.png)
+![image](https://github.com/GregoryRobetertson/Devtools-debugging/assets/147750592/3cde6168-c49b-420a-954a-732b5fa943c2)
 
 ## Issues
 
